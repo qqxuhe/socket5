@@ -1,0 +1,9 @@
+﻿Build started 2015-03-08 02:18:49.
+     1>Project "E:\vs2012\proxy_report\proxy\upnp\upnp.vcxproj" on node 2 (Build target(s)).
+     1>Lib:
+         upnp.vcxproj -> E:\vs2012\proxy_report\proxy\Debug\upnp.lib
+     1>Done Building Project "E:\vs2012\proxy_report\proxy\upnp\upnp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09

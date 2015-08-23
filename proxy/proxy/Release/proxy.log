@@ -1,0 +1,17 @@
+﻿Build started 2015-08-22 23:06:53.
+     1>Project "E:\vs2012\proxy_report\proxy\proxy\proxy.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\vs2012\proxy_report\proxy\Release\proxy.exe" /NOLOGO upnp.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\vs2012\proxy_report\proxy\Release\proxy.pdb" /SUBSYSTEM:WINDOWS,"5.01" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"main" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\vs2012\proxy_report\proxy\Release\proxy.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         Release\s5proxy.obj
+         Release\WSock32init.obj
+            Creating library E:\vs2012\proxy_report\proxy\Release\proxy.lib and object E:\vs2012\proxy_report\proxy\Release\proxy.exp
+         Generating code
+         Finished generating code
+     1>main.obj : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+     1>MSVCRT.lib(atonexit.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+         proxy.vcxproj -> E:\vs2012\proxy_report\proxy\Release\proxy.exe
+     1>Done Building Project "E:\vs2012\proxy_report\proxy\proxy\proxy.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.80
